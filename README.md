@@ -1,2 +1,3 @@
 # GNOD_2.0
-Update to GNOD project
+
+The final project can be found in a file called GNOD_Part_5
